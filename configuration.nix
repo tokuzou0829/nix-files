@@ -171,6 +171,7 @@
       pkgs.zed-editor
       pkgs.sbctl
       pkgs.google-chrome
+      pkgs.spotify
     ];
 
     programs.bash = {
